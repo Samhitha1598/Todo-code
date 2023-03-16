@@ -1,2 +1,15 @@
-# Todo-code
-Its a simple webpage that will help us to add a list of Todo 
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
